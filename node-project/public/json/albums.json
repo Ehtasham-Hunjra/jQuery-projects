@@ -1,0 +1,40 @@
+{
+    "albums": [
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "images/album1.png",
+      "url": "https://www.musa.freewebhostmost.com"
+    },
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "images/album2.png",
+      "url": "https://www.musa.freewebhostmost.com"
+    },
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "images/album3.png",
+      "url": "https://www.musa.freewebhostmost.com"
+    },
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "images/album4.png",
+      "url": "https://www.musa.freewebhostmost.com"
+    },
+    {
+        "year": 2009,
+        "title": "Before the fire",
+        "cover": "images/album5.png",
+        "url": "https://www.musa.freewebhostmost.com"
+      },
+      {
+        "year": 2009,
+        "title": "Before the fire",
+        "cover": "images/album6.png",
+        "url": "https://www.musa.freewebhostmost.com"
+      }
+  ]
+}

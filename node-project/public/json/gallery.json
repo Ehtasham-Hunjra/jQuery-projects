@@ -1,0 +1,123 @@
+{
+    "gallery": [
+    {
+      "id": "1",
+      "location": "https://picsum.photos/320/200",
+      "location_small": "rival_sons_1_small.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "2",
+      "location": "https://picsum.photos/320/200",
+      "location_small": "rival_sons_2_small.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "3",
+      "location": "https://picsum.photos/320/400",
+      "location_small": "rival_sons_3_small.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "4",
+      "location": "https://picsum.photos/320/500",
+      "location_small": "rival_sons_4_small.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+        "id": "5",
+        "location": "https://picsum.photos/350/700",
+        "location_small": "rival_sons_1_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "6",
+        "location": "https://picsum.photos/350/200",
+        "location_small": "rival_sons_2_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "7",
+        "location": "https://picsum.photos/350/400",
+        "location_small": "rival_sons_3_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "8",
+        "location": "https://picsum.photos/350/600",
+        "location_small": "rival_sons_4_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "9",
+        "location": "https://picsum.photos/350/300",
+        "location_small": "rival_sons_1_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "10",
+        "location": "https://picsum.photos/350/630",
+        "location_small": "rival_sons_2_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "11",
+        "location": "https://picsum.photos/350/100",
+        "location_small": "rival_sons_3_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "12",
+        "location": "https://picsum.photos/350/600",
+        "location_small": "rival_sons_4_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "13",
+        "location": "https://picsum.photos/350/650",
+        "location_small": "rival_sons_1_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "14",
+        "location": "https://picsum.photos/350/400",
+        "location_small": "rival_sons_2_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "15",
+        "location": "https://picsum.photos/350/100",
+        "location_small": "rival_sons_3_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "16",
+        "location": "https://picsum.photos/350/600",
+        "location_small": "rival_sons_4_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "17",
+        "location": "https://picsum.photos/350/100",
+        "location_small": "rival_sons_1_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "18",
+        "location": "https://picsum.photos/350/600",
+        "location_small": "rival_sons_2_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "19",
+        "location": "https://picsum.photos/350/700",
+        "location_small": "rival_sons_3_small.jpg",
+        "description": "lorem ipsum"
+      },
+      {
+        "id": "20",
+        "location": "https://picsum.photos/350/400",
+        "location_small": "rival_sons_4_small.jpg",
+        "description": "lorem ipsum"
+      }
+  ]}

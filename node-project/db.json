@@ -1,0 +1,188 @@
+{
+  "albums": [
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "public/images/book.PNG",
+      "url": "https://www.musa.freewebhostmost.com",
+      "id": "d18a"
+    },
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "public/images/book.PNG",
+      "url": "https://www.musa.freewebhostmost.com",
+      "id": "71ed"
+    },
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "public/images/book.PNG",
+      "url": "https://www.musa.freewebhostmost.com",
+      "id": "f374"
+    },
+    {
+      "year": 2009,
+      "title": "Before the fire",
+      "cover": "public/images/book.PNG",
+      "url": "https://www.musa.freewebhostmost.com",
+      "id": "9a46"
+    }
+  ],
+  "events": [
+    {
+      "date": "January 23",
+      "venue": "Pepsi stadium",
+      "location": "Portland",
+      "staus": true,
+      "id": "8b22"
+    },
+    {
+      "date": "January 23",
+      "venue": "Pepsi stadium",
+      "location": "Portland",
+      "staus": true,
+      "id": "314d"
+    },
+    {
+      "date": "January 23",
+      "venue": "Pepsi stadium",
+      "location": "Portland",
+      "staus": true,
+      "id": "4505"
+    },
+    {
+      "date": "January 23",
+      "venue": "Pepsi stadium",
+      "location": "Portland",
+      "staus": true,
+      "id": "c77b"
+    }
+  ],
+  "email": [
+    {
+      "email": "francis@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "60a8",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": "fe1e",
+      "email": "awais@gmail.com"
+    },
+    {
+      "id": "e295",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "b29d",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "75d1",
+      "email": "musa@gmail.com"
+    },
+    {
+      "id": "12d7",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": "3147",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": "6670",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": "9e74",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": "db58",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": "289a",
+      "email": "ammad@gmail.com"
+    },
+    {
+      "id": "f544",
+      "email": "taha@gmail.com"
+    },
+    {
+      "id": "b298",
+      "email": "umer@gmail.com"
+    },
+    {
+      "id": "d99a",
+      "email": "akbar@gmail.com"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "location": "rival_sons_1.jpg",
+      "location_small": "rival_sons_1_small.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "2",
+      "location": "rival_sons_2.jpg",
+      "location_small": "rival_sons_2_small.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "3",
+      "location": "rival_sons_3.jpg",
+      "location_small": "rival_sons_3_small.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "4",
+      "location": "rival_sons_4.jpg",
+      "location_small": "rival_sons_4_small.jpg",
+      "description": "lorem ipsum"
+    }
+  ],
+  "contacts": [
+    {
+      "message": "sdggdfsgfdsgdfsgdsfdgsdgfs",
+      "name": "fernado",
+      "email": "fran@gmail.com",
+      "id": "1"
+    },
+    {
+      "message": "sdggdfsgfdsgdfsgdsfdgsdgfs",
+      "name": "fernado",
+      "email": "fran@gmail.com",
+      "id": "2"
+    },
+    {
+      "message": "sdggdfsgfdsgdfsgdsfdgsdgfs",
+      "name": "fernado",
+      "email": "fran@gmail.com",
+      "id": "3"
+    },
+    {
+      "message": "sdggdfsgfdsgdfsgdsfdgsdgfs",
+      "name": "fernado",
+      "email": "fran@gmail.com",
+      "id": "4"
+    },
+    {
+      "id": "60b3",
+      "messge": "hi how are you",
+      "name": "Ahmad",
+      "email": "ahmad@gmail.com"
+    },
+    {
+      "id": "9d1c",
+      "messge": "hi how are",
+      "name": "ali",
+      "email": "a@gmail.com"
+    }
+  ]
+}

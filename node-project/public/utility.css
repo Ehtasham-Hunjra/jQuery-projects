@@ -1,0 +1,129 @@
+header {
+    position: fixed;
+    background-color: rgba(0,0,0,0.2);
+    width: 100%;
+    height: 12%;
+    display: inline-flex;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+  }
+  .logo{
+    position: fixed;
+    background-color: red;
+    color: white;
+    width: 180px;
+    height: 40px;
+    left: 65px;
+    top: 15px;
+    text-align: center;
+    transition: all 0.9s;
+  }
+  
+  .menu {
+    position: fixed;
+    top: 36px;
+    left: 15px;
+    width: 50px;
+    height: 50px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.9s;
+    z-index: 10;
+  }
+  .menu.menuActive {
+    left: 26%;
+    transition: all 0.9s;
+  } 
+  .logo.h1Active {
+    left: 30%;
+    transition: all 0.9s;
+  } 
+  
+  
+  .sideBar {
+    position: fixed;
+    top: 0;
+    left: -25%;
+    width: 25%;
+    height: 100vh;
+    background-color: rgb(247, 244, 240);
+    transition: all 0.9s;
+  }
+  
+  .sideBar.active {
+    left: 0; /* Slide in from left when active */
+  }
+  .sideBar ul li{
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid rgba(46, 44, 44,0.5);
+    text-align: center;
+    line-height: 50px;
+    color: rgba(8, 8, 8,0.5);
+  }
+  
+  .sideBar a {
+    text-decoration: none;
+    text-align: left;
+    margin-left: 15px;
+    color: rgba(5, 5, 6, 1);
+  }
+
+  .subscribe {
+    display: flex;                /* Enable Flexbox */
+    flex-direction: column;      /* Stack children vertically */
+    justify-content: center;    /* Center content vertically */
+    align-items: center;        /* Center content horizontally */
+    height: 500px;              /* Full viewport height */
+    background-color: #f4f4f4;  
+  }
+  
+  .subscribeInner {
+    text-align: center;         /* Center text within .subscribeInner */
+    padding: 20px;             /* Add some padding */
+    background: #fff;         /* Optional background color */
+    border-radius: 8px;      /* Optional rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow */
+  }
+  
+  .subscribeTitle {
+    font-size: 2em;            /* Larger font size for title */
+    margin-bottom: 10px;      /* Space below the title */
+  }
+  
+  .subscribeInner input {
+    padding: 10px;            /* Padding inside the input */
+    margin: 10px 0;          /* Vertical margin for spacing */
+    width: 100%;             /* Full width of parent */
+    max-width: 300px;       /* Limit width */
+    border: 1px solid #ddd; /* Border color */
+    border-radius: 4px;    /* Rounded corners */
+  }
+  
+  .subscribeInner button {
+    padding: 10px 20px;     /* Padding inside the button */
+    background-color: #007bff; /* Button background color */
+    color: #fff;            /* Button text color */
+    border: none;          /* Remove default border */
+    border-radius: 4px;   /* Rounded corners */
+    cursor: pointer;      /* Change cursor to pointer */
+    margin-top: 10px;     /* Space above the button */
+  }
+  
+  .subscribeInner button:hover {
+    background-color: #0056b3; /* Darker background on hover */
+  }
+
+  footer {
+    height: 100px;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}

@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+    /* background-color: rgb(18, 3, 51); */
+    background-color: #11171e;
+    color: white;
+    font-family: Ubuntu, sans-serif;
+
+}
+.title {
+    margin-bottom: 20px;
+} 
+.contact-title {
+    font-weight: bolder;
+    font-size: 2.6em;
+}
+.contact-para {
+    margin: 0 40px 0;
+}
+.contact-body {
+    z-index: -1;
+    
+    width: 100%;
+    position: absolute;
+    top: 20%;
+}
+.contact-innerbody {
+    width: 80%;
+    display: flex;
+    flex-flow: column wrap;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.contact-info {
+    width: 100%;
+    align-self:self-start;
+    padding: 15px 0;
+    line-height: 30px;
+    border-bottom: 1px solid white;
+}
+.contact-info h3 {
+    color: rgb(255, 76, 76);
+    font-weight: bold;
+}
+.contact-details h3 {
+    font-weight: normal;
+    margin: 0 0 10px 0;
+    font-size: 1.4em;
+}
+.contact-details span {
+    font-size: .95em;
+    font-weight: lighter;
+}
+.contact-details {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.googleMap {
+    
+    margin: 80px auto;
+    height: 300px;
+    width: 70%;
+}
+.map {
+    height: 100%;
+    width: 100%;
+    
+}
+.review {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    height: 250px;
+}
+.input-data {
+    width: 50%;
+    display: flex;
+    flex-flow: column;
+    justify-items: end;
+    align-items: end;
+}
+
+.input-field {
+    width: 65%;
+    height: 16px;
+    padding: 12px;
+    margin-bottom: 5px;
+    border:none;
+    border-radius: 5px;
+}
+
+.submit-btn {
+    background-color: rgb(70, 159, 241);
+    cursor: pointer;
+    width:65%;
+    height: 16px;
+    padding: 12px;
+    margin-bottom: 5px;
+    border:none;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 6px;
+    color: white;
+    font-weight: bold;
+}
+.review-detail {
+    font-size: 25px;
+    margin-top: -20px;
+    padding-top: 0px;
+}
